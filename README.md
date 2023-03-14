@@ -35,7 +35,4 @@
 
 ### 사용한 모델, 모듈: dlib, vgg, KoELECTRA, StyleGan2, flask, html, css, jsscript, python, opencv etc
 
-### v. final
-### 프로젝트 이용 금지
-### beomwon@naver.com
 
